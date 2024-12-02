@@ -22,5 +22,7 @@ star_wars_df
 And do something with it:
 
 ```{python}
-# Your code goes here
+star_wars_df['species'].unique()
 ```
+
+This is a new comment, a green line appears to indicate this is an addition for git tracking. 
